@@ -1,0 +1,88 @@
+[
+    {
+        "sku": 23474089,
+        "title": "Standard Bench",
+        "info": {
+            "make": "Acme Equipment Co",
+            "make-short": "Acme",
+            "model": "Standard Bench 571",
+            "Price": 87.99,
+            "year": "2021",
+            "image_url": "foo.jpg",
+            "description": "Standard professional grade bench, capable of all weightlifting scenarios",
+            "weight": 7.1,
+            "height": 0.3,
+            "width": 0.7,
+            "length": 2.0
+        }
+    },
+    {
+        "sku": 98647522,
+        "title": "Vertical Bounce Back Punching Bag",
+        "info": {
+            "make": "Tussle Boxing Sport",
+            "make-short": "Tussle",
+            "model": "Pulverizer 4",
+            "Price": 71.00,
+            "year": "2021",
+            "image_url": "foo1.jpg",
+            "description": "Bounce-back bag with adjustable tension and height.  For advanced training scenarios.",
+            "weight": 6.11,
+            "height": 1.5,
+            "width": 0.3,
+            "length": 0.1
+        }
+    },
+    {
+        "sku": 67345121,
+        "title": "Adjustable Bench with Leg Extension",
+        "info": {
+            "make": "Acme Equipment Co",
+            "make-short": "Acme",
+            "model": "Multi-Gym bench 2",
+            "Price": 97.00,
+            "year": "2020",
+            "image_url": "foo1.jpg",
+            "description": "Adjustable professional workout bench.  Leg lift extension for mutliple leg and abdominal exercises.  Adjustable height with 5 settings.  High quality leather wrap.  Steel construction.",
+            "weight": 8.7,
+            "height": 0.8,
+            "width": 0.3,
+            "length": 1.8
+        }
+    },
+    {
+        "sku": 79834599,
+        "title": "Portable Home Treadmill",
+        "info": {
+            "make": "Vanguard Sports Equipment",
+            "make-short": "Vanguard",
+            "model": "Lighting Quick 7",
+            "Price": 370.00,
+            "year": "2021",
+            "image_url": "foo2.jpg",
+            "description": "Portable treadmill.  Able to be stored vertically or horizontally.  Controlled via Apple Watch or Android.  Emergency safety cable included.",
+            "weight": 15.0,
+            "height": 0.3,
+            "width": 1.1,
+            "length": 1.7
+        }
+    },
+
+    {
+        "sku": 34598733,
+        "title": "Vertical Boxing Bag Heavy",
+        "info": {
+            "make": "Tussle Boxing Sport",
+            "make-short": "Tussle",
+            "model": "Formidable 1",
+            "Price": 70.00,
+            "year": "2019",
+            "image_url": "foo3.jpg",
+            "description": "Boxing and Kickboxing Heavy Bag.  Liquid filled base.  Withstand lateral force of up to 200 Newtons.",
+            "weight": 6.1,
+            "height": 1.7,
+            "width": 0.6,
+            "length": 0.6
+        }
+    }
+]
